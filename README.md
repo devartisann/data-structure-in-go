@@ -4,8 +4,7 @@ Welcome to my personal journey of mastering data structures in Go (Golang)! This
 
 ### Contents
 - Arrays
-- Linked
-- Lists
+- Linked Lists
 - Stacks
 - Queues
 - Trees (Binary Trees, AVL Trees, Red-Black Trees, etc.)
